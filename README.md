@@ -12,7 +12,7 @@ Task Manager's backend using Python and Django
 
 1. **Fork the repository**
 
-   Open the repository [TrackSalesBack]( ) and click the "Fork" button located in the upper right corner of the page. It creates a copy of our repository in your own Github account.
+   Open the repository [TrackSalesBack](https://github.com/loren-2/TrackSalesBack.git) and click the "Fork" button located in the upper right corner of the page. It creates a copy of our repository in your own Github account.
 <br>
 
 2. **Clone your forked repository**
